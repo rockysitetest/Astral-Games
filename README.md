@@ -1,3 +1,5 @@
-# Astral-Games
+# Rocky-Reborn
 
-Welcome to Astral Games!  A site made for school time with unblockers, unblocked games, exploits, and much more!  
+Welcome to our new project made by the Rocky Games Dev Team, called Rocky Reborn. 
+
+For any more info or to contact us please email: Rockygamesdevteam@gmail.com
